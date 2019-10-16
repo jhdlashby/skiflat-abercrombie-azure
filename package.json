@@ -2,7 +2,7 @@
   "name": "skiflat-abercrombie",
   "version": "1.0.0",
   "engines": {
-    "node": "10.16.3"
+    "node": "10.14.1"
   },
   "description": "Website to advertise an apartment in Flachau, Austria.",
   "main": "app.js",
